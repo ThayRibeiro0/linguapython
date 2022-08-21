@@ -1,0 +1,28 @@
+.header {
+    background-color: #429bff;
+    color: white;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    font-family: Georgia;
+    border: 50px;
+}
+.nav-link{
+    color: 429bff;
+}
+
+.table
+{
+    color: #429bff;
+}
+
+h2
+{
+    text-align: center;
+}
+
+footer
+{
+    color: #429bff;
+    text-align: center;
+}
